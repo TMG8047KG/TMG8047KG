@@ -1,5 +1,7 @@
 # Hello there, I'm [TMG8047KG](https://github.com/TMG8047KG) 👋
 
+<img align="center" alt="Cool Gif" src=./Images/gifche.gif />
+
 ## I'm a Software Student and Self Taught Programmer! 📖
 - 👀 I'm looking to steangthen my programming skills
 - 🌱 I’m currently learning everything I feel like learning
