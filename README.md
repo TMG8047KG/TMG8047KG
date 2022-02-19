@@ -1,20 +1,20 @@
-<h3 align="center">A passionate frontend developer from India</h3>
+# Hello there, I'm [TMG8047KG](https://github.com/TMG8047KG) 👋
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=tmg8047kg&label=Profile%20views&color=0e75b6&style=flat" alt="tmg8047kg" /> </p>
+## I'm a Software Student and Self Taught Programmer! 📖
+- 👀 I'm looking to steangthen my programming skills
+- 🌱 I’m currently learning everything I feel like learning
+- 🏆 My 2022 goal is to learn C++ and to use Unreal Engine
+- ⚡ Fun fact about me: I like going out in the nature
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/tmg8047kgs" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="tmg8047kgs" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/15020915" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="15020915" height="30" width="40" /></a>
-<a href="https://instagram.com/tmg8047kg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="tmg8047kg" height="30" width="40" /></a>
-</p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </p>
+## Connect with me:
+[![connection](./Images/github.png)](https://github.com/TMG8047KG)
+[![connection](./Images/instagram-logo.png)](https://www.instagram.com/tmg8047kg)
+[![connection](./Images/twitter.png)](https://twitter.com/TMG8047KG)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tmg8047kg&show_icons=true&locale=en&layout=compact" alt="tmg8047kg" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tmg8047kg&show_icons=true&locale=en" alt="tmg8047kg" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tmg8047kg&" alt="tmg8047kg" /></p>
-
+<details>
+    <summary>GitHub Status</summary>
+    <img alt="TMG's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=TMG8047KG&show_icons=true&hide_border=true&title_color=6D07DA&bg_color=0F011E&text_color=D5B0FD" />
+    <img alt="TMG's GitHub Streaks" src="https://github-readme-streak-stats.herokuapp.com/?user=TMG8047KG&background=0F011E&currStreakNum=D5B0FD&ring=6D07DA&sideNums=CA9CFC&stroke=9639F9&fire=6D07DA&currStreakLabel=6D07DA&sideLabels=C088FB&dates=EAD8FE&hide_border=true&date_format=j%2Fn%5B%2FY%5D" />
+    <img align="center" alt="TMG's GitHub Graph" src="https://activity-graph.herokuapp.com/graph?username=TMG8047KG&bg_color=0F011E&color=D5B0FD&line=6D07DA&point=A860FB&area=true&hide_border=true" />
+</details>
