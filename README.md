@@ -6,8 +6,7 @@
 
 - 👀 I'm looking to steangthen my programming skills
 - 🌱 I’m currently learning everything I feel like learning
-- 🏆 My 2022 goal is to start and finish something for once :)
-- ⚡ Fun fact about me: I like going out in the nature
+- 🏆 Goal: Make something cool or useful :)
 
 
 ## Connect with me:
