@@ -2,14 +2,17 @@
 
 <img  alt="Cool Gif" width=250px height=250px src=./Images/gifche.gif/>
 
-## I'm a Software Student and Self Taught Programmer! 📖
+## I'm a Software Development Student and Self Taught Programmer! 📖
 
+I mostly do coding as a hobby because I like it, and it allows me to do all sorts of things.
+
+### In other words
 - 👀 I'm looking to steangthen my programming skills
 - 🌱 I’m currently learning everything I feel like learning
-- 🏆 Goal: Make something cool or useful :)
+- 🏆 Goal: Make cool and useful things :]
 
 
-## Connect with me:
+## Connect with me via:
 [![connection](./Images/github.png)](https://github.com/TMG8047KG)
 [![connection](./Images/instagram-logo.png)](https://www.instagram.com/tmg8047kg)
 [![connection](./Images/twitter.png)](https://twitter.com/TMG8047KG)
@@ -17,12 +20,13 @@
 ## Languages and Tools:
 
 <p>
-    <img alt="Language" src=./Images/c-sharp.png whith=32px height=32px />
     <img alt="Language" src=./Images/java.png whith=32px height=32px />
+    <img alt="Language" src=./Images/IntelliJ_IDEA_Icon.svg.png whith=32px height=32px />
     <img alt="Language" src=./Images/js.png whith=32px height=32px />
     <img alt="Language" src=./Images/html.png whith=32px height=32px />
     <img alt="Language" src=./Images/css-3.png whith=32px height=32px />
     <img alt="Language" src=./Images/vscode.png whith=32px height=32px />
+    <img alt="Language" src=./Images/c-sharp.png whith=32px height=32px />
     <img alt="Language" src=./Images/vs2019.png whith=32px height=32px />
 </p>
 
