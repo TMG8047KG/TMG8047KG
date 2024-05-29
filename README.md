@@ -6,6 +6,8 @@
 
 I mostly do coding as a hobby because I like it, and it allows me to do all sorts of things.
 
+(Outdated information! Too lazy to fix it)
+
 ### In other words
 - 👀 I'm looking to steangthen my programming skills
 - 🌱 I’m currently learning everything I feel like learning
