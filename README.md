@@ -122,8 +122,6 @@ If you want me to build something for you, contact me! And if you want to suppor
 
 ---
 
-<br clear="both">
-
 <img src="https://raw.githubusercontent.com/tmg8047kg/tmg8047kg/output/snake.svg" alt="Snake animation" />
 
 ---
